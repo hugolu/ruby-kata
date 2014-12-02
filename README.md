@@ -13,7 +13,7 @@ Growl notification (optional)
 Run test
 ---
 
-rspec spec
+rspec spec rspec spec/lib/kata_spec.rb
 
 or
 
